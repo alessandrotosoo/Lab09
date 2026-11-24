@@ -69,6 +69,7 @@ class Model:
         :return: self._costo (il costo del pacchetto)
         :return: self._valore_ottimo (il voto complessivo dei visitatori per il pacchetto)
         """
+
         self._pacchetto_ottimo = []
         self._costo = 0
         self._valore_ottimo = -1
